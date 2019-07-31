@@ -1,0 +1,13 @@
+C:\Users\sief0\source\repos\CoreApiOData\CoreApiOData\bin\Debug\netcoreapp2.2\CoreApiOData.deps.json
+C:\Users\sief0\source\repos\CoreApiOData\CoreApiOData\bin\Debug\netcoreapp2.2\CoreApiOData.runtimeconfig.json
+C:\Users\sief0\source\repos\CoreApiOData\CoreApiOData\bin\Debug\netcoreapp2.2\CoreApiOData.runtimeconfig.dev.json
+C:\Users\sief0\source\repos\CoreApiOData\CoreApiOData\bin\Debug\netcoreapp2.2\CoreApiOData.dll
+C:\Users\sief0\source\repos\CoreApiOData\CoreApiOData\obj\Debug\netcoreapp2.2\CoreApiOData.csproj.CoreCompileInputs.cache
+C:\Users\sief0\source\repos\CoreApiOData\CoreApiOData\obj\Debug\netcoreapp2.2\CoreApiOData.RazorAssemblyInfo.cache
+C:\Users\sief0\source\repos\CoreApiOData\CoreApiOData\obj\Debug\netcoreapp2.2\CoreApiOData.RazorAssemblyInfo.cs
+C:\Users\sief0\source\repos\CoreApiOData\CoreApiOData\obj\Debug\netcoreapp2.2\CoreApiOData.AssemblyInfoInputs.cache
+C:\Users\sief0\source\repos\CoreApiOData\CoreApiOData\obj\Debug\netcoreapp2.2\CoreApiOData.AssemblyInfo.cs
+C:\Users\sief0\source\repos\CoreApiOData\CoreApiOData\obj\Debug\netcoreapp2.2\CoreApiOData.RazorTargetAssemblyInfo.cache
+C:\Users\sief0\source\repos\CoreApiOData\CoreApiOData\bin\Debug\netcoreapp2.2\CoreApiOData.pdb
+C:\Users\sief0\source\repos\CoreApiOData\CoreApiOData\obj\Debug\netcoreapp2.2\CoreApiOData.dll
+C:\Users\sief0\source\repos\CoreApiOData\CoreApiOData\obj\Debug\netcoreapp2.2\CoreApiOData.pdb
